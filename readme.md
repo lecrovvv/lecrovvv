@@ -1,4 +1,4 @@
-<img src="https://github.com/resweirdoo/weirdoo/blob/189f5c60010797caeb2c9e5ca8c46cb5fa8ca226/header.png">
+<img src="https://github.com/resweirdoo/resweirdoo/blob/8cbdb246a2331c3d8ea762c859be78b0eef51496/header.png">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=resweirdoo&style=for-the-badge"/>
