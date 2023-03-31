@@ -1,4 +1,4 @@
-<img src="banner.png></img>
+<img src="banner.png>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=resweirdoo&style=for-the-badge"/>
