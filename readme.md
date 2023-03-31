@@ -9,9 +9,9 @@
 - 📫 email: weirdoo145@gmail.com
 - 🗨️ discord: weirdoo#7455
 
-![Python](https://img.shields.io/badge/-python-00ff00?style=for-the-badge&logo=python&logoColor=black)
-![Bash](https://img.shields.io/badge/-bash-00ff00?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![SQLite](https://img.shields.io/badge/-sqlite-00ff00?style=for-the-badge&logo=SQLite&logoColor=black)
+![Python](https://img.shields.io/badge/-python-ffff80?style=for-the-badge&logo=python&logoColor=black)
+![Bash](https://img.shields.io/badge/-bash-ffff80?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![SQLite](https://img.shields.io/badge/-sqlite-ffff80?style=for-the-badge&logo=SQLite&logoColor=black)
 
 <details>
   <summary>📊 Stats:</summary>
