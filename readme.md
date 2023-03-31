@@ -19,4 +19,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resweirdoo&hide_border=true&layout=compact&show_icons=true&title_color=00ff00&icon_color=00ff00&text_color=8B00FF&bg_color=ffff80" />
 </details>
 
-![](https://raw.githubusercontent.com/resweirdoo/resweirdoo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://github.com/resweirdoo/resweirdoo/blob/fb37fd47b703d51b62c94e1e5e5ed76e8422f33d/github-user-contribution.svg)
