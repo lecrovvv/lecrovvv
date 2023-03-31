@@ -1,3 +1,5 @@
+<img src="banner.png></img>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=resweirdoo&style=for-the-badge"/>
 </p>
@@ -5,12 +7,11 @@
 <h1>Info ℹ️</h1>
 
 - 📫 email: weirdoo145@gmail.com
-- 🗨️ discord: Hweirdoo#7455
+- 🗨️ discord: weirdoo#7455
 
 ![Python](https://img.shields.io/badge/-python-00ff00?style=for-the-badge&logo=python&logoColor=black)
 ![Bash](https://img.shields.io/badge/-bash-00ff00?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![SQLite](https://img.shields.io/badge/-sqlite-00ff00?style=for-the-badge&logo=SQLite&logoColor=black)
-<!--![Kubernetes](https://img.shields.io/badge/-kubernetes-00ff00?style=for-the-badge&logo=kubernetes&logoColor=black) in progress-->
 
 <details>
   <summary>📊 Stats:</summary>
