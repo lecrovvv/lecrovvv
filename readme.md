@@ -9,14 +9,15 @@
 - 📫 email: weirdoo145@gmail.com
 - 🗨️ discord: weirdoo#7455
 
-![Python](https://img.shields.io/badge/-python-ffff80?style=for-the-badge&logo=python&logoColor=black)
-![Bash](https://img.shields.io/badge/-bash-ffff80?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![SQLite](https://img.shields.io/badge/-sqlite-ffff80?style=for-the-badge&logo=SQLite&logoColor=black)
+![Python](https://img.shields.io/badge/-python-ffffff?style=for-the-badge&logo=python&logoColor=black)
+![Bash](https://img.shields.io/badge/-bash-ffffff?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![SQLite](https://img.shields.io/badge/-sqlite-ffffff?style=for-the-badge&logo=SQLite&logoColor=black)
+ 	![HTML5](https://img.shields.io/badge/-html5-ffffff?style=for-the-badge&logo=html5&logoColor=white)
 
 <details>
   <summary>📊 Stats:</summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=resweirdoo&hide_border=true&show_icons=true&include_all_commits=true&show_icons=true&title_color=00ff00&icon_color=00ff00&text_color=8B00FF&bg_color=ffff80" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resweirdoo&hide_border=true&layout=compact&show_icons=true&title_color=00ff00&icon_color=00ff00&text_color=8B00FF&bg_color=ffff80" />
+    <img src="https://github-readme-stats.vercel.app/api?username=resweirdoo&hide_border=true&show_icons=true&include_all_commits=true&show_icons=true&title_color=000&icon_color=000text_color=000&bg_color=ffffff" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resweirdoo&hide_border=true&layout=compact&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=ffffff" />
 </details>
 
 ![](https://github.com/resweirdoo/resweirdoo/blob/fb37fd47b703d51b62c94e1e5e5ed76e8422f33d/github-user-contribution.svg)
