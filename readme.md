@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/-python-ffffff?style=for-the-badge&logo=python&logoColor=black)
 ![Bash](https://img.shields.io/badge/-bash-ffffff?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![SQLite](https://img.shields.io/badge/-sqlite-ffffff?style=for-the-badge&logo=SQLite&logoColor=black)
- 	![HTML5](https://img.shields.io/badge/-html5-ffffff?style=for-the-badge&logo=html5&logoColor=white)
+ 	![HTML5](https://img.shields.io/badge/html5-ffffff?style=for-the-badge&logo=html5&logoColor=white)
 
 <details>
   <summary>📊 Stats:</summary>
