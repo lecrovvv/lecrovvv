@@ -1,4 +1,4 @@
-<img src="https://github.com/resweirdoo/resweirdoo/blob/8cbdb246a2331c3d8ea762c859be78b0eef51496/header.png">
+<img src="https://github.com/resweirdoo/resweirdoo/blob/952e4cb9957c981d45ff7a6648393e0d841b7f62/Hi.gif" width="92">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=resweirdoo&style=for-the-badge"/>
@@ -19,4 +19,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resweirdoo&hide_border=true&layout=compact&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=ffffff" />
 </details>
 
-![](https://github.com/resweirdoo/resweirdoo/blob/fb37fd47b703d51b62c94e1e5e5ed76e8422f33d/github-user-contribution.svg)
+<a href="https://youtu.be/xvFZjo5PgG0" target="_blank">
+  <img src="https://github.com/resweirdoo/resweirdoo/blob/fb37fd47b703d51b62c94e1e5e5ed76e8422f33d/github-user-contribution.svg">
+</a>
