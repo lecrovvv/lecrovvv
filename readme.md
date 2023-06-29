@@ -3,9 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=resweirdoo&style=for-the-badge)
 
-# Little about me...
-
-I live in Russian (_no hate pls_), know english (68%)
 # I know...
 
 ![Python](https://img.shields.io/badge/-python-ffffff?style=for-the-badge&logo=python&logoColor=black)
