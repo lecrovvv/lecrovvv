@@ -41,9 +41,9 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](test)
 # Stats
 
-![](https://github-readme-stats.vercel.app/api?username=resweirdoo&hide_border=true&show_icons=true&include_all_commits=true&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=lecrovvv&hide_border=true&show_icons=true&include_all_commits=true&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=ffffff)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=resweirdoo&hide_border=true&layout=compact&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lecrovvv&hide_border=true&layout=compact&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=ffffff)
 
 # My contributions
 ![](https://github.com/resweirdoo/resweirdoo/blob/fb37fd47b703d51b62c94e1e5e5ed76e8422f33d/github-user-contribution.svg)
